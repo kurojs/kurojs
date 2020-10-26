@@ -1,16 +1,14 @@
-### Hi there 👋
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
 
-<!--
-**kurojs/kurojs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there, welcome to my Github
 
-Here are some ideas to get you started:
+- I'm kuro, an Undredictable Developer.
+- 🌱 I’m currently learning golang, algorithms, database,... and everything fun to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+  <img height="200" src = "https://github-readme-stats.vercel.app/api?username=kurojs&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kurojs&hide=css,html&theme=tokyonight">
+</p>
