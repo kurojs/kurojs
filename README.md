@@ -5,8 +5,7 @@
 ![My Skills](https://skillicons.dev/icons?i=npm,github,aws,java,electron,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
 
 ---  
-
-###　**ABOUT ME**  
+### **ABOUT ME**
 👾 Passionate about programming, retro design, and video games.  
 🕹️ My favorite stack includes: Java, Python, C++.  
 🗾 Trilingual Software Engineer.  
