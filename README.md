@@ -2,10 +2,6 @@
 ---  
 
 ### 📦 **SKILLS** 📦  
-
-## Development Tools
-<img alt="My Skills" src="https://skillicons.dev/icons?i=npm,github,git,vscode,idea">
-
 ## Cloud Services
 <img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
 
