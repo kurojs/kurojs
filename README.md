@@ -2,7 +2,18 @@
 ---  
 
 ### 📦 **SKILLS** 📦  
-![My Skills](https://skillicons.dev/icons?i=npm,github,aws,java,electron,angular,azure,js,fastapi,firebase,css,git,idea,mysql,nodejs,py,react,spring,vscode,css)
+
+## Development Tools
+<img alt="My Skills" src="https://skillicons.dev/icons?i=npm,github,git,vscode,idea">
+
+## Cloud Services
+<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
+
+## Programming Languages
+<img alt="My Skills" src="https://skillicons.dev/icons?i=java,js,py,css">
+
+## Frameworks and Libraries
+<img alt="My Skills" src="https://skillicons.dev/icons?i=electron,angular,fastapi,nodejs,react,spring">
 
 ---  
 ### **ABOUT ME**
