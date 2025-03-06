@@ -5,7 +5,7 @@
 ## Cloud Services
 <img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
 
-## Programming Languages
+## Languages
 <img alt="My Skills" src="https://skillicons.dev/icons?i=java,js,py,css">
 
 ## Frameworks and Libraries
