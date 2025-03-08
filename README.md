@@ -1,7 +1,7 @@
 ### **HOWDY!**   
 ---  
 
-### **SKILLS** 📦  
+### 📦 **SKILLS** 📦  
 ## Cloud Services
 <img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
 
