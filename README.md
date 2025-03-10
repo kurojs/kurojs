@@ -2,14 +2,15 @@
 ---  
 
 ### 📦 **SKILLS** 📦  
-## Cloud Services
-<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
 
 ## Languages
 <img alt="My Skills" src="https://skillicons.dev/icons?i=java,js,py,cpp">
 
 ## Frameworks and Libraries
 <img alt="My Skills" src="https://skillicons.dev/icons?i=electron,angular,fastapi,nodejs,react,spring">
+
+## Cloud Services
+<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
 
 ---  
 ### **ABOUT ME**
