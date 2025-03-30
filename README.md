@@ -1,26 +1,33 @@
-### **HOWDY!**   
----  
+### **HOWDY!**  
+
+---
 
 ### 📦 **SKILLS** 📦  
 
-## Languages
-<img alt="My Skills" src="https://skillicons.dev/icons?i=java,js,py,cpp">
+#### 👾 Languages  
+<img alt="Languages" src="https://skillicons.dev/icons?i=java,js,py,cpp,ts" />  
 
-## Frameworks and Libraries
-<img alt="My Skills" src="https://skillicons.dev/icons?i=electron,angular,fastapi,nodejs,react,spring">
+#### 📌 Frameworks, Libraries & Runtime  
+<img alt="Frameworks" src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,spring,electron" />  
 
-## Cloud Services
-<img alt="My Skills" src="https://skillicons.dev/icons?i=aws,azure,firebase">
+#### ☁️ Cloud & DevOps  
+<img alt="Cloud Services" src="https://skillicons.dev/icons?i=aws,azure,firebase,docker" />  
 
----  
-### **ABOUT ME**
-👾 Passionate about programming, retro design, and video games.  
-🕹️ My favorite stack includes: Java, Python, C++.  
-🗾 Trilingual Software Engineer.  
-🍜 Available to work on exciting projects!.
+---
 
+### **ABOUT ME**  
+- 🕹️ Passionate about coding, retro music, and gaming.  
+- 👾 My favorite stack: **Java, Python, C++**.  
+- 🗾 Trilingual Software Engineer (English | Español | 日本語).  
+- 🍜 Open to exciting projects!  
+
+---
+
+### **GitHub Activity**  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://kurojs.github.io/kurojs/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://kurojs.github.io/kurojs/github-contribution-grid-snake.svg" />
-  <img alt="Snake Game" src="https://kurojs.github.io/kurojs/github-contribution-grid-snake.svg" />
-</picture>
+  <img alt="GitHub Contribution Snake" src="https://kurojs.github.io/kurojs/github-contribution-grid-snake.svg" />
+</picture>  
+
+#### 👾 _"Determination!"_
