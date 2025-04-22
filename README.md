@@ -2,10 +2,8 @@
 
 ---
 
-### 📦 **SKILLS** 📦  
-
 #### 👾 Languages  
-<img alt="Languages" src="https://skillicons.dev/icons?i=java,js,py,cpp,ts" />  
+<img alt="Languages" src="https://skillicons.dev/icons?i=java,js,py,cpp,ts,php" />  
 
 #### 📌 Frameworks, Libraries & Runtime  
 <img alt="Frameworks" src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,spring,electron" />  
