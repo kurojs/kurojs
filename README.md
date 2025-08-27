@@ -2,26 +2,26 @@
 
 **Trilingual Software Engineer** • **Full-Stack Developer**
 
-> English | Español | 日本語 • 🕹️ From algorithms to reality, one commit at a time
+> English | Español | 日本語 • 🕹️ Echoes of the universe, compiled into code.
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-  <img src="https://kurojs.github.io/AssetHub/images/java.png" alt="Java" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/python.png" alt="Python" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/js.png" alt="JavaScript" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/ts.png" alt="TypeScript" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/react.png" alt="React" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/angular.png" alt="Angular" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/astro.png" alt="Astro" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/node.png" alt="Node.js" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/springboot.png" alt="Spring Boot" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/docker.png" alt="Docker" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/arch.png" alt="Arch Linux" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/azure.png" alt="Azure" style="margin:10px;" />
-  <img src="https://kurojs.github.io/AssetHub/images/firebase.png" alt="Firebase" style="margin:10px;" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <img src="https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-444444?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-444444?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-444444?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-444444?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Astro-444444?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Node.js-444444?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-444444?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-444444?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Arch_Linux-444444?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Azure-444444?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Firebase-444444?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </div>
 
 ---
@@ -31,16 +31,6 @@
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kurojs&bg_color=transparent&color=9370db&line=1DB954&point=1DB954&area=true&hide_border=true)
-
-</div>
-
----
-
-## Codewars Stats
-
-<div align="center">
-
-![Codewars Stats](https://github.r2v.ch/codewars?user=kurojs&stroke=%239370db&background=00000000&color=%23ffffff&title=%239370db&logo=%231DB954)
 
 </div>
 
