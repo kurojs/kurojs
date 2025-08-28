@@ -9,24 +9,24 @@
 ## Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
-  <img src="https://img.shields.io/badge/Java-282828?style=for-the-badge&logo=openjdk" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-282828?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-282828?style=for-the-badge&logo=angular" alt="Angular" />
-  <img src="https://img.shields.io/badge/Astro-282828?style=for-the-badge&logo=astro" alt="Astro" />
-  <img src="https://img.shields.io/badge/Node.js-282828?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-282828?style=for-the-badge&logo=springboot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker" alt="Docker" />
-  <img src="https://img.shields.io/badge/Arch_Linux-282828?style=for-the-badge&logo=archlinux" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Azure-282828?style=for-the-badge&logo=microsoftazure" alt="Azure" />
-  <img src="https://img.shields.io/badge/Firebase-282828?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Java-262A33?style=for-the-badge&logo=openjdk&logoColor=A6ACB9" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-262A33?style=for-the-badge&logo=python&logoColor=A6ACB9" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-262A33?style=for-the-badge&logo=javascript&logoColor=A6ACB9" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-262A33?style=for-the-badge&logo=typescript&logoColor=A6ACB9" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-262A33?style=for-the-badge&logo=react&logoColor=A6ACB9" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-262A33?style=for-the-badge&logo=angular&logoColor=A6ACB9" alt="Angular" />
+  <img src="https://img.shields.io/badge/Astro-262A33?style=for-the-badge&logo=astro&logoColor=A6ACB9" alt="Astro" />
+  <img src="https://img.shields.io/badge/Node.js-262A33?style=for-the-badge&logo=nodedotjs&logoColor=A6ACB9" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-262A33?style=for-the-badge&logo=springboot&logoColor=A6ACB9" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Docker-262A33?style=for-the-badge&logo=docker&logoColor=A6ACB9" alt="Docker" />
+  <img src="https://img.shields.io/badge/Arch_Linux-262A33?style=for-the-badge&logo=archlinux&logoColor=A6ACB9" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Azure-262A33?style=for-the-badge&logo=microsoftazure&logoColor=A6ACB9" alt="Azure" />
+  <img src="https://img.shields.io/badge/Firebase-262A33?style=for-the-badge&logo=firebase&logoColor=A6ACB9" alt="Firebase" />
 </div>
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🍫 GitHub Activity Graph
 
 <div align="center">
 
