@@ -1,8 +1,8 @@
 # Howdy World! 👾 I'm Kuro
 
-**Trilingual Software Engineer** • **Full-Stack Developer**
+**Trilingual Software Engineer** | **Software Architect** | **70's-90's Music Fan**
 
-> English | Español | 日本語 • 🕹️ Echoes of the universe, compiled into code.
+> English | Español | 日本語
 
 ---
 
@@ -31,9 +31,8 @@
 </div>
 
 ---
-
 <div align="center">
 
-**_Determination!_** <img src="https://kurojs.github.io/AssetHub/images/heart.png" width="20" height="20" alt="heart" style="vertical-align: middle;" />
+**_Determination!_** <sub><img src="https://kurojs.github.io/AssetHub/images/heart.png" width="20" height="20" alt="heart" /></sub>
 
 </div>
