@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Angular-262A33?style=for-the-badge&logo=angular&logoColor=A6ACB9" alt="Angular" />
   <img src="https://img.shields.io/badge/Astro-262A33?style=for-the-badge&logo=astro&logoColor=A6ACB9" alt="Astro" />
   <img src="https://img.shields.io/badge/Spring_Boot-262A33?style=for-the-badge&logo=springboot&logoColor=A6ACB9" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Arch_Linux-262A33?style=for-the-badge&logo=archlinux&logoColor=A6ACB9" alt="Arch Linux" />
 </div>
 
 ---
