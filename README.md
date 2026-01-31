@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Python-262A33?style=for-the-badge&logo=python&logoColor=A6ACB9" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-262A33?style=for-the-badge&logo=javascript&logoColor=A6ACB9" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-262A33?style=for-the-badge&logo=typescript&logoColor=A6ACB9" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-262A33?style=for-the-badge&logo=angular&logoColor=A6ACB9" alt="Angular" />
   <img src="https://img.shields.io/badge/React-262A33?style=for-the-badge&logo=react&logoColor=A6ACB9" alt="React" />
   <img src="https://img.shields.io/badge/Astro-262A33?style=for-the-badge&logo=astro&logoColor=A6ACB9" alt="Astro" />
   <img src="https://img.shields.io/badge/Spring_Boot-262A33?style=for-the-badge&logo=springboot&logoColor=A6ACB9" alt="Spring Boot" />
