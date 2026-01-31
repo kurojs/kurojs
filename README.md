@@ -32,6 +32,6 @@
 ---
 <div align="center">
 
-**_Determination!_** <sub><img src="https://kurojs.github.io/AssetHub/images/heart.png" width="20" height="20" alt="heart" /></sub>
+**_Determination!_** <sub><img src="https://kuro.software/assets/images/profile/favicon.webp" width="20" height="20" alt="heart" /></sub>
 
 </div>
