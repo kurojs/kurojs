@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/JavaScript-262A33?style=for-the-badge&logo=javascript&logoColor=A6ACB9" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-262A33?style=for-the-badge&logo=typescript&logoColor=A6ACB9" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Go-262A33?style=for-the-badge&logo=go&logoColor=A6ACB9" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-262A33?style=for-the-badge&logo=rust&logoColor=A6ACB9" alt="Rust" />
   <img src="https://img.shields.io/badge/QML-262A33?style=for-the-badge&logo=qt&logoColor=A6ACB9" alt="QML" />
   <img src="https://img.shields.io/badge/Angular-262A33?style=for-the-badge&logo=angular&logoColor=A6ACB9" alt="Angular" />
   <img src="https://img.shields.io/badge/React-262A33?style=for-the-badge&logo=react&logoColor=A6ACB9" alt="React" />
