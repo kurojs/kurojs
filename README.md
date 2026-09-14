@@ -1,6 +1,6 @@
 # Howdy World! 👾 I'm Kuro
 
-**Trilingual Software Engineer & Architect** | **70's-90's Music Fan**
+**Trilingual Software Engineer** | **70's-90's Music Fan**
 
 > English | Español | 日本語
 
