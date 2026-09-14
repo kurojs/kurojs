@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph-brown-beta.vercel.app/graph?username=kurojs&bg_color=transparent&color=9370db&line=1DB954&point=1DB954&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph-brown-beta.vercel.app/graph?username=kurojs,kiroku67&bg_color=transparent&color=9370db&line=1DB954&point=1DB954&area=true&hide_border=true)
 
 </div>
 
